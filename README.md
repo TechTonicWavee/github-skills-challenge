@@ -1,5 +1,8 @@
 # AIOps Monitoring Assessment
 
+## Pull Request
+Open pull request: [DebbieAUG/github-skills-challenge#180](https://github.com/DebbieAUG/github-skills-challenge/pull/180)
+
 This repository simulates a lightweight AIOps monitoring workflow for a payment service. The service emits operational telemetry in the form of request timing, CPU and memory usage, and log events. The goal is to detect abnormal behaviour, turn the relevant observations into anomaly events, and pass those events through a simple event-streaming pipeline to an AIOps output layer.
 
 ## Service being monitored
